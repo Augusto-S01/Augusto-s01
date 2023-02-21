@@ -24,7 +24,7 @@
   <img height="30" alt="icone-ember" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg"/>
   <img height="30" alt="icone-react" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img height="30" alt="icone-c" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img align="right" alt="Augusto-foto" height="150" style="border-radius:50px;" src="https://i.imgur.com/kanMfmd.jpg">
+  <img align="right" alt="Augusto-foto" height="150" style="border-radius:50px;" src="https://imgur.com/a/FfvMsO7">
   
 </div>
 
