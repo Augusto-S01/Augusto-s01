@@ -1,6 +1,6 @@
 ### Olá, me chamo Augusto Santos:
 
-
+<img width="100%" src="https://i.imgur.com/6dCRC6i.jpg"/>
 
 - 🔭 Atualmente trabalho com Java & Javascript para front e backend, atuo tambem dando suporte a infraestrutura.
 - 🌱 Estudo no Instituto Federal de São Paulo no curso de analise e desenvolvimento de sistemas. 
