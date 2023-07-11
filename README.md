@@ -5,6 +5,12 @@
 - 📫 Para contato me envie um email para AugustoSouzaS01@Gmail.com.
 - 😄 Pronomes: ele/dele.
 
+
+
+https://github.com/Augusto-S01/Augusto-s01/assets/43907990/3843d500-40f0-4285-a0a2-cf872865dd46
+
+
+
 <div align="center" style="display: flex; flex-direction:row";>
   <a href="https://github.com/Augusto-s01">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Augusto-s01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
