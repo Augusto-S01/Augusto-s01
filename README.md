@@ -7,8 +7,8 @@
 
 
 
-https://github.com/Augusto-S01/Augusto-s01/assets/43907990/3843d500-40f0-4285-a0a2-cf872865dd46
-
+![teste]
+<video src="https://github.com/Augusto-S01/Augusto-s01/assets/43907990/3843d500-40f0-4285-a0a2-cf872865dd46" width="100%" nocontrol autoplay>
 
 
 <div align="center" style="display: flex; flex-direction:row";>
