@@ -1,6 +1,6 @@
 ![Augusto_v2 (3)](https://github.com/Augusto-S01/Augusto-s01/assets/43907990/4c348154-c4c1-4d0e-bb80-2cce38e51fa2)
 
-
+<h1>About me</h1>
   
 <div style="display: inline_block"><br>
   <img height="30" alt="icone-javascript" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
